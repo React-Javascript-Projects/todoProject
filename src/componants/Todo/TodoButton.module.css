@@ -1,0 +1,16 @@
+i {
+  background-color: rgb(255, 255, 255);
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 1rem;
+}
+.delete {
+  color: #dc3445;
+}
+.edit {
+  color: #fcc122;
+}
+.check {
+  color: #399e4d;
+}

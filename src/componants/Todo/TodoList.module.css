@@ -1,0 +1,11 @@
+.todo {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 42rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 3rem 0 2rem 0;
+}

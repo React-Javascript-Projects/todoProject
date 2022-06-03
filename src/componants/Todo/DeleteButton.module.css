@@ -1,0 +1,13 @@
+.deleteButton {
+  width: 100%;
+  max-width: 42rem;
+  display: flex;
+  gap: 1.5rem;
+}
+.deleteButton Button {
+  background-color: #dc3445;
+}
+.deleteButton Button :hover,
+.deleteButton Button:active {
+  background: #ca1f30;
+}
